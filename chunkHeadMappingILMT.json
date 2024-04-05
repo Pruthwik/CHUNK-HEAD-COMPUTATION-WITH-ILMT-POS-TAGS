@@ -1,0 +1,10 @@
+{
+    "^NP" : "NN.*|PR.*|NST.*",
+    "^VG.*" : "VM.*",
+    "^JJP" : "JJ.*|QC.*|QO.*|QF.*",
+    "^RBP" : "RB",
+    "^FRAGP" : "PSP|RP.*",
+    "^NEGP" : "NEG",
+    "^CCP": "CC.*",
+    "^BLK": "SYM|PUNC"
+}
